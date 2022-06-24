@@ -27,13 +27,8 @@
     }
 
     @include respond(phone) {
-<<<<<<< HEAD
-        -webkit-clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 90%);
-        clip-path: polygon(0 0, 100% 0, 100% 75vh, 0 90%);
-=======
         -webkit-clip-path: polygon(0 0, 100% 0, 100% 85vh, 0 100%);
         clip-path: polygon(0 0, 100% 0, 100% 85vh, 0 100%);
->>>>>>> 3c3a03c40323429ee4f88346caf8c6600e2195c6
     }
 
     &__logo-box {
